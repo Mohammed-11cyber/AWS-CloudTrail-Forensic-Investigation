@@ -30,4 +30,4 @@ To secure an unauthenticated backdoor, the threat actor triggered a CreateUser c
 ## Full Forensic Case File PDF
 The complete cloud forensic analysis—featuring raw CloudTrail JSON snippets, VS Code environmental parsing screens, and the exact CyberChef deobfuscation recipes—is safely hosted within this repository.
 
-Please download the complete PDF report directly from the file list view above to read the illustrated case brief!
+Please download the complete PDF report directly from the file list view above to read the illustrated case brief
